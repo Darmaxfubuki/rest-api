@@ -6,7 +6,7 @@
     "elevation": 1717,
     "rating": 4.8,
     "imageUrl": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=800&q=80",
-    "description": "Gunung Batur adalah gunung berapi aktif di Kintamani, Bali. Terkenal dengan pemandangan matahari terbit spektakuler di atas kaldera dan Danau Batur.",
+    "description": "Gunung berapi aktif di Kintamani, Bangli, Bali. Terkenal dengan kaldera purba yang megah, keindahan Danau Batur, serta panorama golden sunrise yang sangat diminati pendaki pemula hingga mancanegara.",
     "estimatedTime": "2 - 3 Jam",
     "difficulty": "Mudah - Sedang"
   },
@@ -17,7 +17,7 @@
     "elevation": 3726,
     "rating": 4.9,
     "imageUrl": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=800&q=80",
-    "description": "Gunung Rinjani merupakan gunung berapi kedua tertinggi di Indonesia dengan pemandangan kaldera megah dan Danau Segara Anak.",
+    "description": "Gunung berapi tertinggi kedua di Indonesia yang terletak di Pulau Lombok. Menyuguhkan kawah spektakuler dengan Danau Segara Anak berair biru kehijauan dan kerucut aktif Gunung Barujari di tengahnya.",
     "estimatedTime": "3 - 4 Hari",
     "difficulty": "Menantang"
   },
@@ -28,7 +28,7 @@
     "elevation": 3676,
     "rating": 4.8,
     "imageUrl": "https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?auto=format&fit=crop&w=800&q=80",
-    "description": "Puncak tertinggi di Pulau Jawa (Mahameru). Menawarkan keindahan danau alami Ranu Kumbolo dan padang savana Oro-oro Ombo.",
+    "description": "Atap tertinggi di Pulau Jawa dengan puncak Mahameru yang melegenda. Menyajikan panorama danau alami Ranu Kumbolo, Tanjakan Cinta, serta keindahan hamparan padang savana Oro-oro Ombo.",
     "estimatedTime": "3 - 4 Hari",
     "difficulty": "Sangat Menantang"
   },
@@ -37,32 +37,76 @@
     "name": "Gunung Merbabu",
     "location": "Jawa Tengah",
     "elevation": 3145,
-    "rating": 4.7,
+    "rating": 4.8,
     "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
-    "description": "Gunung Merbabu terkenal dengan padang savana luas dan pemandangan gagah Gunung Merapi dari puncaknya.",
+    "description": "Salah satu gunung terfavorit di Jawa Tengah dengan ciri khas padang sabana rumput berbukit hijau yang luas memukau serta sudut pandang terbaik mengamati Gunung Merapi dari seberang lembah.",
     "estimatedTime": "7 - 9 Jam",
     "difficulty": "Menengah"
   },
   {
     "id": "5",
+    "name": "Gunung Agung",
+    "location": "Bali",
+    "elevation": 3142,
+    "rating": 4.9,
+    "imageUrl": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80",
+    "description": "Gunung tertinggi dan kawasan paling disucikan oleh masyarakat Bali di Karangasem. Jalur pendakian melintasi lereng Pura Besakih dan Pasar Agung dengan pemandangan magis menembus samudra awan.",
+    "estimatedTime": "6 - 8 Jam",
+    "difficulty": "Menantang"
+  },
+  {
+    "id": "6",
+    "name": "Gunung Bromo",
+    "location": "Jawa Timur",
+    "elevation": 2329,
+    "rating": 4.9,
+    "imageUrl": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=800&q=80",
+    "description": "Gunung berapi aktif paling terkenal di Jawa Timur yang berdiri di tengah kaldera Tengger dan Lautan Pasir (Pasir Berbisik), dilengkapi tangga beton menuju bibir kawah aktif yang terus mengepulkan asap belerang.",
+    "estimatedTime": "1 - 2 Jam",
+    "difficulty": "Mudah"
+  },
+  {
+    "id": "7",
     "name": "Gunung Kerinci",
     "location": "Sumatera Barat",
     "elevation": 3805,
     "rating": 4.9,
     "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80",
-    "description": "Gunung berapi tertinggi di Indonesia yang berada di kawasan pelestarian alam Taman Nasional Kerinci Seblat.",
+    "description": "Gunung berapi tertinggi di Indonesia dan puncak daratan tertinggi di Pulau Sumatra, berada di dalam kawasan ekosistem alami hutan hujan tropis Taman Nasional Kerinci Seblat yang kaya keanekaragaman hayati.",
     "estimatedTime": "2 - 3 Hari",
     "difficulty": "Sangat Menantang"
   },
   {
-    "id": "6",
+    "id": "8",
     "name": "Gunung Prau",
     "location": "Jawa Tengah",
     "elevation": 2565,
-    "rating": 4.8,
+    "rating": 4.7,
     "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=80",
-    "description": "Terletak di Dataran Tinggi Dieng dengan bukit Teletubbies dan panorama golden sunrise terbaik.",
+    "description": "Puncak Dataran Tinggi Dieng yang ramah bagi pendaki pemula, terkenal dengan panorama sunrise emas berlatar deretan puncak kembar Sindoro dan Sumbing serta hamparan bunga edelweiss.",
     "estimatedTime": "3 - 4 Jam",
     "difficulty": "Mudah"
+  },
+  {
+    "id": "9",
+    "name": "Gunung Gede",
+    "location": "Jawa Barat",
+    "elevation": 2958,
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?auto=format&fit=crop&w=800&q=80",
+    "description": "Bagian dari Taman Nasional Gunung Gede Pangrango di Cianjur/Bogor. Memiliki daya tarik Alun-alun Suryakencana seluas 50 hektar yang dipenuhi hamparan padang edelweiss abadi dan telaga biru.",
+    "estimatedTime": "5 - 7 Jam",
+    "difficulty": "Menengah"
+  },
+  {
+    "id": "10",
+    "name": "Gunung Ijen",
+    "location": "Jawa Timur",
+    "elevation": 2769,
+    "rating": 4.8,
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+    "description": "Terletak di perbatasan Banyuwangi dan Bondowoso, terkenal di kancah dunia dengan fenomena alam langka Blue Fire (api biru abadi), kawah danau asam toska terbesar di dunia, serta aktivitas penambang belerang tradisional.",
+    "estimatedTime": "2 - 3 Jam",
+    "difficulty": "Mudah - Sedang"
   }
 ]
